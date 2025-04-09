@@ -26,7 +26,7 @@ customer-feedback-portal/├── feedback-app/           # Laravel Backend API
 ## 🛠️ Step 1: Clone the Repository
 
 ```bash
-git clone [https://github.com/yourusername/customer-feedback-portal.git](https://github.com/yourusername/customer-feedback-portal.git)
+git clone "https://github.com/pratikdahal105/feedback_app.git"
 cd customer-feedback-portal
 ```
 ## 🔧 Step 2: Set Up the Backend (Laravel)
