@@ -21,8 +21,10 @@ Make sure the following are installed:
 -   Git
 
 ## 📁 Repository Structure
+customer-feedback-portal/
+├── feedback-app/       # Laravel Backend API
+└── feedback-frontend/  # React Frontend
 
-customer-feedback-portal/├── feedback-app/           # Laravel Backend API└── feedback-frontend/      # React Frontend
 ## 🛠️ Step 1: Clone the Repository
 
 ```bash
