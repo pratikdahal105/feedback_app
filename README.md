@@ -22,7 +22,9 @@ Make sure the following are installed:
 
 ## 📁 Repository Structure
 customer-feedback-portal/
+
 ├── feedback-app/       # Laravel Backend API
+
 └── feedback-frontend/  # React Frontend
 
 ## 🛠️ Step 1: Clone the Repository
